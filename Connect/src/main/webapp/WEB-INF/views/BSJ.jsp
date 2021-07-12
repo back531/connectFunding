@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
-<h2>test입니다!! -ssong-</h2>
+<h2>test占쌉니댐옙!! -ssong-</h2>
 </body>
 </html>
