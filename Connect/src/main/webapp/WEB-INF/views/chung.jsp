@@ -3,10 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
-<h2>test�Դϴ�!! -ssong-</h2>
-</body>
+<h1>신나는 git</h1>
 </html>
